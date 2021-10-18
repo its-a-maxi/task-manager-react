@@ -28,15 +28,6 @@ A really basic task manager page without data persistance, quick project made to
 <!-- GETTING STARTED -->
 ## 🏃 Quick Start
 
-### Prerequisites
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
 * Clone the repo
   ```sh
   git clone https://github.com/its-a-maxi/task-manager-react.git
