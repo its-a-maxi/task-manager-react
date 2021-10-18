@@ -12,7 +12,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## :information_source: About The Project
+## ℹ️ About The Project
 
 ![](product.gif)
 
@@ -27,7 +27,7 @@ A really basic task manager page without data persistance, quick project made to
 
 
 <!-- GETTING STARTED -->
-## Quick Start
+## 🏃 Quick Start
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ A really basic task manager page without data persistance, quick project made to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## ⌨️ Usage
 
 * Run task-manager.sh
 ```sh
@@ -58,7 +58,7 @@ A really basic task manager page without data persistance, quick project made to
 
 
 <!-- CONTACT -->
-## Contact
+## 📫 Contact
 
 Maximo Monroy - monroy.vds@gmail.com
 
@@ -69,7 +69,7 @@ Project Link: [https://github.com/its-a-maxi/task-manager-react.git](https://git
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🥇 Acknowledgments
 
 Thanks to _Traversy Media_ tutorials, amazing explanations and presentations.
 * [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=LL&index=1&t=4583s)
