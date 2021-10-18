@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![](product.gif)
 
 A really basic task manager page without data persistance, quick project made to start getting acquainted with react.
 
