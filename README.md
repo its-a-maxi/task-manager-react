@@ -9,12 +9,11 @@
 <br />
 <div align="center">
   <h1>Task Manager in React</h1>
+  <img src="product.gif" />
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
-
-![](product.gif)
 
 A really basic task manager page without data persistance, quick project made to start getting acquainted with react.
 
