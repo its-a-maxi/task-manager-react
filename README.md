@@ -116,7 +116,6 @@ Use the `BLANK_README.md` to get started.
 ### Installation
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 * npm
   ```sh
   git clone https://github.com/its-a-maxi/task-manager-react.git
@@ -126,7 +125,7 @@ Use the `BLANK_README.md` to get started.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-*Run task-manager.sh
+* Run task-manager.sh
 ```sh
   ./task-manager.sh
 ```
