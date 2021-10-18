@@ -81,6 +81,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+getting acquainted with react
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -93,8 +94,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -116,21 +115,21 @@ Use the `BLANK_README.md` to get started.
 
 ### Installation
 
-*Run task-manager.sh
-```sh
-  ./task-manager.sh
-```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+* npm
+  ```sh
+  git clone https://github.com/its-a-maxi/task-manager-react.git
+  ```
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+*Run task-manager.sh
+```sh
+  ./task-manager.sh
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -140,7 +139,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/its-a-maxi/task-manager-react.git](https://github.com/its-a-maxi/task-manager-react.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -149,16 +148,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Project made following a Traversy Media Tutorial, <a href="https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=LL&index=1&t=4583s">React JS Crash Course 2021</a>
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Thanks to _Traversy Media_ tutorials, amazing explanations and presentations.
+* [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=LL&index=1&t=4583s)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
