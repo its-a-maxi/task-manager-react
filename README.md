@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Task Manager in REact</h1>
+  <h1>Task Manager in React</h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
