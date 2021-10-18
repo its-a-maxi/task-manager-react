@@ -36,8 +36,6 @@
 
 A really basic task manager page without data persistance, quick project made to start getting acquainted with react.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 * [React.js](https://reactjs.org/)
