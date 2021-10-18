@@ -115,11 +115,12 @@ Use the `BLANK_README.md` to get started.
 
 ### Installation
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 * npm
   ```sh
   git clone https://github.com/its-a-maxi/task-manager-react.git
   ```
+  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
