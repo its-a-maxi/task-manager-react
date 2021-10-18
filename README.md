@@ -29,9 +29,9 @@ A really basic task manager page without data persistance, quick project made to
 ## 🏃 Quick Start
 
 * Clone the repo
-  ```sh
+```sh
   git clone https://github.com/its-a-maxi/task-manager-react.git
-  ```
+```
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
