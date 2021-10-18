@@ -12,7 +12,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :information_source: About The Project
 
 ![](product.gif)
 
