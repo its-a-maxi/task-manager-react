@@ -61,7 +61,7 @@ A really basic task manager page without data persistance, quick project made to
 
 Maximo Monroy - monroy.vds@gmail.com
 
-Project Link: [https://github.com/its-a-maxi/task-manager-react.git](https://github.com/its-a-maxi/task-manager-react.git)
+Project Link: [https://github.com/its-a-maxi/task-manager-react](https://github.com/its-a-maxi/task-manager-react)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
