@@ -15,11 +15,12 @@
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
 
-A really basic task manager page without data persistance, quick project made to start getting acquainted with react.
+Basic task manager page linked with a JSON Server for data persistance, quick project made to start getting acquainted with react.
 
 ### Built With
 
 * [React.js](https://reactjs.org/)
+* [JSON Server](https://github.com/its-a-maxi/task-manager-react)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
