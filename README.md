@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
 
-A really basic task manager page linked with a JSON Server for data persistance, quick project made to start getting acquainted with react.
+Basic task manager page linked with a JSON Server for data persistance, quick project made to start getting acquainted with react.
 
 ### Built With
 
